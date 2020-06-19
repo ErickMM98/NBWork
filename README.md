@@ -1,6 +1,6 @@
 # NBWork 
 
-Un simple DiscordBot para trabjar de manera grupal separadamente.
+Un simple DiscordBot para trabjar de manera grupal.
 
 ## Utilidades
 

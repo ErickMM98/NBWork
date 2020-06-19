@@ -14,4 +14,4 @@ async def on_message(message):
     if message.content.startswith('$hello'):
         await message.channel.send('Hello!')
 
-client.run('NzIxODQ2NDk0NTU4NDIxMTEz.Xuw-9g.8mWQi28s7dpVlUJgUfkrN3cM1ok')
+client.run('AQUI VA UN TOKEN')
